@@ -1,3 +1,4 @@
+call pathogen#infect()
 colorscheme tir_black
 set term=gnome-256color 
 syntax on
