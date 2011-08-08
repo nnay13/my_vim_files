@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/yguilloux/Documents/Dev/Ruby/vmware/.git'
+let g:netrw_dirhist_2='/home/yguilloux/Documents/Dev/RAILS/sample_app/app/views'
+let g:netrw_dirhist_3='/home/yguilloux/Documents/Dev/RAILS/sample_app/app/views/pages'
+let g:netrw_dirhist_4='/home/yguilloux/.vim/snippets/bundle/html5.vim'
+let g:netrw_dirhist_5='/home/yguilloux/.vim/snippets/eruby-rails'
