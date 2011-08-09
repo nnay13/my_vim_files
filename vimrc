@@ -1,3 +1,5 @@
+call pathogen#helptags()
+call pathogen#runtime_append_all_bundles()
 call pathogen#infect()
 colorscheme tir_black
 set term=gnome-256color 
