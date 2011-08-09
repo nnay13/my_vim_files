@@ -37,3 +37,5 @@ augroup END
 silent! nmap <silent> <Leader>p :NERDTreeToggle<CR>
 " Press Space to turn off highlighting and clear any message already displayed.
 nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
+" Markdown to HTML 
+nmap <leader>md :%!~/Apps/bin/Markdown.pl --html4tags <cr>
